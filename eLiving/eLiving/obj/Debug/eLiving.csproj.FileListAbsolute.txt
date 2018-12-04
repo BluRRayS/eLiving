@@ -1,0 +1,14 @@
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.csprojAssemblyReference.cache
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.BeginForm.resources
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.Properties.Resources.resources
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.csproj.GenerateResource.cache
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.csproj.CoreCompileInputs.cache
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\bin\Debug\eLiving.exe.config
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\bin\Debug\eLiving.exe
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\bin\Debug\eLiving.pdb
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.exe
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.pdb
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.SelectAMood.resources
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.AddAMood.resources
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.History.resources
+C:\Users\BluRRayS\source\repos\eLiving\eLiving\obj\Debug\eLiving.RoomOptions.resources
